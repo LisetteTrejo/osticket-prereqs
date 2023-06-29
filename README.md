@@ -2,7 +2,9 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-
+<h2>Description</h2>
+Project consists of learning how to use and install the osTicket system. I was able to create tickets as an end user and solve them as an administrator according to the ticket's SLA. I was also able to create users with assigned permissons according to their roles,departments, and teams.
+<br />
 
 
 
